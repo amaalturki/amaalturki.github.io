@@ -22,7 +22,7 @@ For my FIFA data visualization project and scene recognition model, I would like
 
 [How do you plan to structure your time over the next two weeks? What will you focus on first? What will you prioritize later?  
 What does “done enough” look like to you—and how will you decide when to stop polishing?]
-By the weekend of 5/17-18, I plan to finish the project of creating statistical visualizations of FIFA matches, and by the week after that, on 5/24-25, I plan to finish my scene recognition microproject. My goal is to finish both projects with at least semi-functionality. For the FIFA matches project, that could be only producing a limited type of data visualization, and for my scene recognition project, this level of semi-functionality could be that it can only recognize scenes from certain types of video frames.
+By the weekend of 5/17-18, I plan to finish the project of creating statistical visualizations of FIFA matches, and by the week after that, on 5/24-25, I plan to finish my scene recognition microproject. My goal is to finish both projects with at least semi-functionality. For the FIFA matches project, which could only produce a limited type of data visualization, and for my scene recognition project, this level of semi-functionality means that it can only recognize scenes from certain types of video frames.
 ---
 
 ### What's Next
