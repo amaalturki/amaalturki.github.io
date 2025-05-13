@@ -5,7 +5,7 @@ title: "Day 0 - Planning"
 
 ### Project Focus
 
-For my project, I’ll complete two microprojects. The first involves creating statistical visualizations of FIFA matches using historical data from over 150 years. The second focuses on developing an  algorithm to recognize video scenes that will be able to predict the classification of unknown future data, exploring image classification and basic computer vision techniques.
+I’ll complete two separate microprojects. The first involves creating statistical visualizations of FIFA matches using historical data from over 150 years. The second focuses on developing an  algorithm to recognize video scenes that will be able to predict the classification of unknown future data, exploring image classification and basic computer vision techniques.
 ---
 
 ### Why This Project 
