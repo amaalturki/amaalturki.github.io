@@ -28,4 +28,4 @@ By the weekend of 5/17-18, I plan to finish the project of creating statistical 
 ### What's Next
 
 [What do you plan to tackle in the next stage of your project?]
-I plan to begin working on my FIFA data visualization project. 
+I plan to begin working on my FIFA data visualization project. I will do this by watching the video walkthrough provided in the website.
