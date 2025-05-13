@@ -10,7 +10,7 @@ This project was part of my final quest in Programming Fundamentals, and it refl
 
 ## About My Projects
 
-**Project Titles:** *FIFA Matches Data Analysis* & *AI Scene Recognition Model*
+**Project Title:** *Data Visualization with FIFA Soccer and Videoframe Datasets*
 **Pitch:** My first microproject analyzes data and statistics from over 45,000 FIFA matches since 1872, while my second microproject is an AI model that classifies scenes from video frames.
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
